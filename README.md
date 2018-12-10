@@ -51,7 +51,7 @@ Elasticsearchに保存されているドキュメントから、指定文字列�
 |ES_ENDPOINT      |Elasticsearchのエンドポイント|
 |KIBANA_URL       |通知内容に添付するkibanaのURL|
 |ERROR_LEVEL      |ログ通知対象のエラーログレベル|
-|UNIT_OF_TIME     |ログ件数平均算出の時間単位(h|m|s)|
+|UNIT_OF_TIME     |ログ件数平均算出の時間単位(h\|m\|s)|
 
 ## 別プロジェクトからの利用例
 
